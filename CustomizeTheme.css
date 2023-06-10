@@ -1,7 +1,7 @@
 /* 全局属性 */
 :root {
     background: fixed;
-    background-image: linear-gradient(to bottom, rgba(238, 238, 238, 0.2), rgba(238, 238, 238, 0.2)), url(./images/1686e9cab38e46abb370f15a7baacd10.jpg);
+    background-image: linear-gradient(to bottom, rgba(238, 238, 238, 0.2), rgba(238, 238, 238, 0.2)), url(./images/1686e9cab38e46abb370f15a7baacd10.jpg); /*  此url()内地址为想要更改的背景图片路径 */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
